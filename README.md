@@ -1,13 +1,16 @@
 # Đây là sản phẩm thiết kế ứng dụng nấu ăn FACU .
 
-1 Giới thiệu khái quát về sản phẩm
+    1.Giới thiệu khái quát về sản phẩm 
 
 1.1 Giới thiệu về Facu
 
-
 Nếu bạn là người ham học hỏi trong nấu nướng, hay bạn muốn chia sẻ kinh nghiệm nấu nướng của mình đến cho mọi người  ứng dụng này là tiện ích dành cho bạn. Đây tựa như trang xã hội nơi chia sẻ các kinh nghiệm và công thức nấu ăn công khai cho mọi  thành viên. bạn có thể tìm kiếm  thanh công cụ tìm kiếm, bạn nhập tên nguyên liệu, tên món ăn sẽ chỉ ra các công thức và các món khác nhau để bạn áp dụng. Hình ảnh sẽ được thành viên up lên  một cách chân thực nhất và chi tiết các bước thực hiện ra món ăn đó. Vâng ứng dụng mình muốn giới thiệu ở đây kà ứng dụng Facu.
 
-                ## 2Tổng quát về ứng dụng ##                                                                                                            
+1.2   Các thuộc tính sử dụng trong ứng dụng
+
+
+
+2.Tổng quát về ứng dụng                                                                                                           
  
  
 GIAO DIỆN  ỨNG DỤNG FACU
