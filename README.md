@@ -32,14 +32,14 @@ Trang  mở đầu của Ứng dụng  với giao diện nhìn bắt mắt ngư�
 
 * ĐĂNG NHẬP & BẢO MẬT
 
- ![image](dt/dangnhap.png)
+![image](đt/dangnhap.png)
 
 Người dùng đăng nhập tài khoản để có thể sử dụng được ứng dụng FACU từ tài khoản đã đăng ký trước hoặc có thể đăng nhập với tài khoản Google của mình.
 
  
 Nhập code để đăng nhập
 
-  ![image](đt/Nhậpmã xác thực.png)
+  ![image](đt/Nhậpmãxácthực.png)
  
 Sau khi đăng nhập bằng tài khoản mật khẩu người dùng cần phải nhập thêm mã do hệ thống máy chủ FACU gửi về người dùng và nhập vào để đăng nhập thành công.
  
@@ -47,7 +47,7 @@ Sau khi đăng nhập bằng tài khoản mật khẩu người dùng cần ph�
  
 Ở phần mật khẩu  ta thêm ký tự dấu chấm đậm ẩn và tắt mắt để cho khách hàng có thể thấy được .
 
- ![image](đt/Đăngnhập 2.png)
+ ![image](đt/Đăngnhập2.png)
 
  
 Khi bạn quên mật khẩu thì phải làm sao nhỉ ?
@@ -56,7 +56,7 @@ Chúng ta ấn vào quên mật khẩu và nhập đúng email của mình vào 
 
 * Trang chủ
  
-  ![image](đt/Trang chủ.png)
+  ![image](đt/Trangchủ.png)
   
 Bước vào giao diện Trang chủ sau khi đăng nhập thành công hệ thống, chúng ta bắt đầu sử dụng ứng dụng nào.
 
@@ -107,7 +107,7 @@ Nhập thêm thông tin về món ăn thành phần, và các bước thực hi�
 
 Hiển thị những thông báo như những người theo dõi bạn hay yêu thích hay những thông báo khác đến bạn được hiển thị ở đây.
 
-  ![image](đt/Scan-camera.png)
+  ![image](đt/Thôngbáo.png)
  
 * Trang cá nhân
 
