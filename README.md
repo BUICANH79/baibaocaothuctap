@@ -13,68 +13,73 @@ Kiểu chữ được sử dụng trong ứng dụng
 Kiểu chữ được sử dụng là Bold và medium
 Size chữ từ 22px, 17px ,15px ,  12 px .
 
-*logo sản phẩm
+* Màu chữ 
 
+![image](Colors.png)
+
+*logo sản phẩm*
+ 
+ ![image](dt/Group75.png)
 
 2.Tổng quát về ứng dụng                                                                                                           
  
  
-GIAO DIỆN  ỨNG DỤNG FACU
+*GIAO DIỆN  ỨNG DỤNG FACU*
+
+ ![image](dt/Onboarding.png)
 
 Trang  mở đầu của Ứng dụng  với giao diện nhìn bắt mắt người dùng với màu trắng đơn điệu hi vọng người dùng sẽ.
 
-Về mặt thiết kế ở đây sử dụng chèn hình ảnh  buttons và Text chọn style yêu cầu thiết kế sẵn.
- 
+*ĐĂNG NHẬP & BẢO MẬT*
 
-
-ĐĂNG NHẬP & BẢO MẬT
+ ![image](dt/dangnhap.png)
 
 Người dùng đăng nhập tài khoản để có thể sử dụng được ứng dụng FACU từ tài khoản đã đăng ký trước hoặc có thể đăng nhập với tài khoản Google của mình.
 
  
 Nhập code để đăng nhập
-Đăng nhập 2
- 
+
+  ![image](dt/Nhậpmã xác thực.png)
  
 Sau khi đăng nhập bằng tài khoản mật khẩu người dùng cần phải nhập thêm mã do hệ thống máy chủ FACU gửi về người dùng và nhập vào để đăng nhập thành công.
  
+  ![image](dt/Nhậpmãbảomật.png)
  
-Như mọi màn hình thanh bar đầu copy sang màn hình mới thêm và thêm text vào, sử dụng RECTANGLE  thêm vào màn hình bo góc hợp lý, ở phần mật khẩu  ta thêm ký tự dấu chấm đậm ẩn và tắt mắt để cho người code hay khách hàng có thể hiểu được .
+Ở phần mật khẩu  ta thêm ký tự dấu chấm đậm ẩn và tắt mắt để cho khách hàng có thể thấy được .
 
-Chọn màu sau đó căn chỉnh lại các dòng lề hợp lý theo màn hình.
+ ![image](dt/Đăngnhập 2.png)
 
-Sau đó Component các phần có thể sử dụng ở những màn hình sau form nhập sdt email , mật khẩu, buttons
-
-Đăng nhập, xác thực, gửi lại …
- 
  
 Khi bạn quên mật khẩu thì phải làm sao nhỉ ?
 
 Chúng ta ấn vào quên mật khẩu và nhập đúng email của mình vào và tìm kiếm nếu đúng  như tìm kiếm thì sẽ có mã gửi về và nhập vào ra màn hình nhập mật khẩu mới với yêu cầu mật khẩu chứa các yêu cầu đề ra.
- 
-Một số nút ấn đã được  Component  ở phần trước , thao tác vào assets và lấy nó ra để sử dụng và chỉnh sửa theo màn hình.
 
-Trang chủ
+*Trang chủ*
  
- 
+  ![image](dt/Trang chủ.png)
+  
 Bước vào giao diện Trang chủ sau khi đăng nhập thành công hệ thống, chúng ta bắt đầu sử dụng ứng dụng nào.
 
 Ở trang chủ có thể tìm kiếm và bản tin các món ăn cập nhập do ứng dụng đề xuất và từ các bếp bạn theo dõi.
  
  
-Tìm kiếm
+*Tìm kiếm*
+
+ ![image](dt/TìmKiếm.png)
 
 Ứng dụng cho phép người dùng tìm kiếm những món ăn bạn muốn bằng các từ khóa liên quan.
 
 Có thể lọc để ra kết quả tìm kiếm được như ý hơn, ở đây có thể lọc ra thể loại, thời gian nấu nướng .
  
+  ![image](dt/Tìmkiếmlọc.png)
  
- 
-Nhập tìm kiếm
+*Nhập tìm kiếm*
 Màn hình khi tìm kiếm kết quả
  
  
-Đăng món ăn
+*Đăng món ăn*
+
+ ![image](dt/Upload-step2.png)
 
 Bạn muốn đăng 1 công thức chế biến món ăn đến mọi người cùng đến đến đây.
 
@@ -83,19 +88,28 @@ Người dùng có thêm nhiều ảnh tùy chọn tối đa là kích thước 
 Và có thể chia sẽ hay tâm sự của mình về món ăn đó, hay tâm trạng của mình điều mình muốn nói.
 
 Lựa chọn thời gian nấu món ăn.
+
  
 Nhập thêm thông tin về món ăn thành phần, và các bước thực hiện có thể bao gồm ảnh người dùng có thể đăng món ăn, lúc đó sẽ thông báo kết quả tải lên thành công.
  
+  ![image](dt/Upload-success.png)
  
-Quét món ăn
+*Quét món ăn*
 Ở đây chúng tôi cung cấp cho người dùng tính năng quét để nhận diện món ăn đó là món gì thành phần gì và cho kết quả nhưng món ăn tương tự.
  
+  ![image](dt/Group75.png)
  
-Thông báo
+*Thông báo*
 Hiển thị những thông báo như những người theo dõi bạn hay yêu thích hay những thông báo khác đến bạn được hiển thị ở đây.
+
+  ![image](dt/Scan-camera.png)
  
+*Trang cá nhân*
+
+ ![image](dt/Trangcánhân.png)
  
-Trang cá nhân
+  ![image](dt/Trangcánhân1ngkhac.png)
+ 
 Ở đây bạn sẽ thấy thông tin về tài khoản của mình.  Bạn xem được những nhật ký món ăn của mình số người đang theo dõi, bạn đang theo dõi những bếp nào, cũng xem được những món ăn bạn để ý yêu thích ở mục yêu thích.
  
  
