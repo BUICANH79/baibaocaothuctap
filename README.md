@@ -1,5 +1,13 @@
 # Đây là sản phẩm thiết kế ứng dụng nấu ăn FACU .
 
+*link di chuyển nhanh*
+[1. Giới thiệu khái quát về sản phẩm  ](#Modau)
+
+[2. Giới thiệu các trang ](#sudungct)
+
+[3. Cuối trang ](#h)
+
+  <a name="Modau"></a>
     1.Giới thiệu khái quát về sản phẩm 
 
 1.1 Giới thiệu về Facu
@@ -21,6 +29,7 @@ Size chữ từ 22px, 17px ,15px ,  12 px .
  
  ![image](đt/Group75.png)
 
+<a name="sudungct"></a>
     2.Giới thiệu các trang                                                                                                         
  
  
@@ -113,8 +122,12 @@ Hiển thị những thông báo như những người theo dõi bạn hay yêu 
 
  ![image](đt/Trangcánhân.png)
  
+ *Trang cá nhân của người khác
+ 
   ![image](đt/Trangcánhân1ngkhac.png)
  
 Ở đây bạn sẽ thấy thông tin về tài khoản của mình.  Bạn xem được những nhật ký món ăn của mình số người đang theo dõi, bạn đang theo dõi những bếp nào, cũng xem được những món ăn bạn để ý yêu thích ở mục yêu thích.
  
-    3. Quy trình thực hiện
+<a name="h"></a>
+
+Cảm ơn bạn đã theo dõi giới thiệu về thiết kế ứng dụng nấu nướng của nhóm mình , phần quy trình thiết kế mình sẽ giới thiệu và cập nhật sau .
