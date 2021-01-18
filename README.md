@@ -17,20 +17,20 @@ Size chữ từ 22px, 17px ,15px ,  12 px .
 
 ![image](Colors.png)
 
-*logo sản phẩm*
+* logo sản phẩm
  
  ![image](đt/Group75.png)
 
-2.Tổng quát về ứng dụng                                                                                                           
+    2.Giới thiệu các trang                                                                                                         
  
  
-*GIAO DIỆN  ỨNG DỤNG FACU*
+* GIAO DIỆN  ỨNG DỤNG FACU
 
  ![image](đt/Onboarding.png)
 
 Trang  mở đầu của Ứng dụng  với giao diện nhìn bắt mắt người dùng với màu trắng đơn điệu hi vọng người dùng sẽ.
 
-*ĐĂNG NHẬP & BẢO MẬT*
+* ĐĂNG NHẬP & BẢO MẬT
 
  ![image](dt/dangnhap.png)
 
@@ -54,7 +54,7 @@ Khi bạn quên mật khẩu thì phải làm sao nhỉ ?
 
 Chúng ta ấn vào quên mật khẩu và nhập đúng email của mình vào và tìm kiếm nếu đúng  như tìm kiếm thì sẽ có mã gửi về và nhập vào ra màn hình nhập mật khẩu mới với yêu cầu mật khẩu chứa các yêu cầu đề ra.
 
-*Trang chủ*
+* Trang chủ
  
   ![image](đt/Trang chủ.png)
   
@@ -63,7 +63,7 @@ Bước vào giao diện Trang chủ sau khi đăng nhập thành công hệ th�
 Ở trang chủ có thể tìm kiếm và bản tin các món ăn cập nhập do ứng dụng đề xuất và từ các bếp bạn theo dõi.
  
  
-*Tìm kiếm*
+* Tìm kiếm
 
  ![image](đt/TìmKiếm.png)
 
@@ -73,11 +73,14 @@ Có thể lọc để ra kết quả tìm kiếm được như ý hơn, ở đâ
  
   ![image](đt/Tìmkiếmlọc.png)
  
-*Nhập tìm kiếm*
+* Nhập tìm kiếm
+
+![image](đt/KQtìmkiếm.png)
+
 Màn hình khi tìm kiếm kết quả
  
  
-*Đăng món ăn*
+* Đăng món ăn
 
  ![image](đt/Upload-step2.png)
 
@@ -94,17 +97,19 @@ Nhập thêm thông tin về món ăn thành phần, và các bước thực hi�
  
   ![image](đt/Upload-success.png)
  
-*Quét món ăn*
+* Quét món ăn
+
 Ở đây chúng tôi cung cấp cho người dùng tính năng quét để nhận diện món ăn đó là món gì thành phần gì và cho kết quả nhưng món ăn tương tự.
  
-  ![image](đt/Group75.png)
+  ![image](đt/Scan-camera.png)
  
-*Thông báo*
+* Thông báo
+
 Hiển thị những thông báo như những người theo dõi bạn hay yêu thích hay những thông báo khác đến bạn được hiển thị ở đây.
 
   ![image](đt/Scan-camera.png)
  
-*Trang cá nhân*
+* Trang cá nhân
 
  ![image](đt/Trangcánhân.png)
  
@@ -112,4 +117,4 @@ Hiển thị những thông báo như những người theo dõi bạn hay yêu 
  
 Ở đây bạn sẽ thấy thông tin về tài khoản của mình.  Bạn xem được những nhật ký món ăn của mình số người đang theo dõi, bạn đang theo dõi những bếp nào, cũng xem được những món ăn bạn để ý yêu thích ở mục yêu thích.
  
- 
+    3. Quy trình thực hiện
