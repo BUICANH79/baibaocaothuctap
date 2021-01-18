@@ -1,6 +1,8 @@
 # Đây là sản phẩm thiết kế ứng dụng nấu ăn FACU .
 
-*link di chuyển nhanh*
+*link sản phẩm https://www.figma.com/file/aK0blCRUnXHGxr02RhaTY3/CANH-PHU?node-id=156%3A61*
+
+*liên kết nhanh*
 
 [1. Giới thiệu khái quát về sản phẩm  ](#Modau)
 
