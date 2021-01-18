@@ -19,14 +19,14 @@ Size chữ từ 22px, 17px ,15px ,  12 px .
 
 *logo sản phẩm*
  
- ![image](dt/Group75.png)
+ ![image](đt/Group75.png)
 
 2.Tổng quát về ứng dụng                                                                                                           
  
  
 *GIAO DIỆN  ỨNG DỤNG FACU*
 
- ![image](dt/Onboarding.png)
+ ![image](đt/Onboarding.png)
 
 Trang  mở đầu của Ứng dụng  với giao diện nhìn bắt mắt người dùng với màu trắng đơn điệu hi vọng người dùng sẽ.
 
@@ -39,15 +39,15 @@ Người dùng đăng nhập tài khoản để có thể sử dụng được �
  
 Nhập code để đăng nhập
 
-  ![image](dt/Nhậpmã xác thực.png)
+  ![image](đt/Nhậpmã xác thực.png)
  
 Sau khi đăng nhập bằng tài khoản mật khẩu người dùng cần phải nhập thêm mã do hệ thống máy chủ FACU gửi về người dùng và nhập vào để đăng nhập thành công.
  
-  ![image](dt/Nhậpmãbảomật.png)
+  ![image](đt/Nhậpmãbảomật.png)
  
 Ở phần mật khẩu  ta thêm ký tự dấu chấm đậm ẩn và tắt mắt để cho khách hàng có thể thấy được .
 
- ![image](dt/Đăngnhập 2.png)
+ ![image](đt/Đăngnhập 2.png)
 
  
 Khi bạn quên mật khẩu thì phải làm sao nhỉ ?
@@ -56,7 +56,7 @@ Chúng ta ấn vào quên mật khẩu và nhập đúng email của mình vào 
 
 *Trang chủ*
  
-  ![image](dt/Trang chủ.png)
+  ![image](đt/Trang chủ.png)
   
 Bước vào giao diện Trang chủ sau khi đăng nhập thành công hệ thống, chúng ta bắt đầu sử dụng ứng dụng nào.
 
@@ -65,13 +65,13 @@ Bước vào giao diện Trang chủ sau khi đăng nhập thành công hệ th�
  
 *Tìm kiếm*
 
- ![image](dt/TìmKiếm.png)
+ ![image](đt/TìmKiếm.png)
 
 Ứng dụng cho phép người dùng tìm kiếm những món ăn bạn muốn bằng các từ khóa liên quan.
 
 Có thể lọc để ra kết quả tìm kiếm được như ý hơn, ở đây có thể lọc ra thể loại, thời gian nấu nướng .
  
-  ![image](dt/Tìmkiếmlọc.png)
+  ![image](đt/Tìmkiếmlọc.png)
  
 *Nhập tìm kiếm*
 Màn hình khi tìm kiếm kết quả
@@ -79,7 +79,7 @@ Màn hình khi tìm kiếm kết quả
  
 *Đăng món ăn*
 
- ![image](dt/Upload-step2.png)
+ ![image](đt/Upload-step2.png)
 
 Bạn muốn đăng 1 công thức chế biến món ăn đến mọi người cùng đến đến đây.
 
@@ -92,23 +92,23 @@ Lựa chọn thời gian nấu món ăn.
  
 Nhập thêm thông tin về món ăn thành phần, và các bước thực hiện có thể bao gồm ảnh người dùng có thể đăng món ăn, lúc đó sẽ thông báo kết quả tải lên thành công.
  
-  ![image](dt/Upload-success.png)
+  ![image](đt/Upload-success.png)
  
 *Quét món ăn*
 Ở đây chúng tôi cung cấp cho người dùng tính năng quét để nhận diện món ăn đó là món gì thành phần gì và cho kết quả nhưng món ăn tương tự.
  
-  ![image](dt/Group75.png)
+  ![image](đt/Group75.png)
  
 *Thông báo*
 Hiển thị những thông báo như những người theo dõi bạn hay yêu thích hay những thông báo khác đến bạn được hiển thị ở đây.
 
-  ![image](dt/Scan-camera.png)
+  ![image](đt/Scan-camera.png)
  
 *Trang cá nhân*
 
- ![image](dt/Trangcánhân.png)
+ ![image](đt/Trangcánhân.png)
  
-  ![image](dt/Trangcánhân1ngkhac.png)
+  ![image](đt/Trangcánhân1ngkhac.png)
  
 Ở đây bạn sẽ thấy thông tin về tài khoản của mình.  Bạn xem được những nhật ký món ăn của mình số người đang theo dõi, bạn đang theo dõi những bếp nào, cũng xem được những món ăn bạn để ý yêu thích ở mục yêu thích.
  
