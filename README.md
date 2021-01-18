@@ -8,6 +8,12 @@ Nếu bạn là người ham học hỏi trong nấu nướng, hay bạn muốn 
 
 1.2   Các thuộc tính sử dụng trong ứng dụng
 
+Kiểu chữ được sử dụng trong ứng dụng
+Ở đây font chữ được sử dụng là inter
+Kiểu chữ được sử dụng là Bold và medium
+Size chữ từ 22px, 17px ,15px ,  12 px .
+
+*logo sản phẩm
 
 
 2.Tổng quát về ứng dụng                                                                                                           
@@ -28,7 +34,6 @@ Người dùng đăng nhập tài khoản để có thể sử dụng được �
  
 Nhập code để đăng nhập
 Đăng nhập 2
- 
  
  
 Sau khi đăng nhập bằng tài khoản mật khẩu người dùng cần phải nhập thêm mã do hệ thống máy chủ FACU gửi về người dùng và nhập vào để đăng nhập thành công.
@@ -79,45 +84,15 @@ Và có thể chia sẽ hay tâm sự của mình về món ăn đó, hay tâm t
 
 Lựa chọn thời gian nấu món ăn.
  
-
- 
- 
- 
- 
- 
 Nhập thêm thông tin về món ăn thành phần, và các bước thực hiện có thể bao gồm ảnh người dùng có thể đăng món ăn, lúc đó sẽ thông báo kết quả tải lên thành công.
- 
- 
- 
- 
- 
- 
- 
-   
- 
  
  
 Quét món ăn
 Ở đây chúng tôi cung cấp cho người dùng tính năng quét để nhận diện món ăn đó là món gì thành phần gì và cho kết quả nhưng món ăn tương tự.
  
  
- 
- 
- 
- 
- 
 Thông báo
 Hiển thị những thông báo như những người theo dõi bạn hay yêu thích hay những thông báo khác đến bạn được hiển thị ở đây.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 Trang cá nhân
